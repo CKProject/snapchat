@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="42" height="42" viewBox="0 0 42 42">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="타원_35" data-name="타원 35" cx="21" cy="21" r="21" transform="translate(45 67)" fill="#ebebeb"/>
+    </clipPath>
+  </defs>
+  <g id="profile" transform="translate(-33 -57)">
+    <circle id="타원_33" data-name="타원 33" cx="21" cy="21" r="21" transform="translate(33 57)" fill="#ebebeb"/>
+    <g id="마스크_그룹_1" data-name="마스크 그룹 1" transform="translate(-12 -10)" clip-path="url(#clip-path)">
+      <ellipse id="타원_34" data-name="타원 34" cx="14" cy="6.5" rx="14" ry="6.5" transform="translate(52 102)" fill="#f4da2e"/>
+    </g>
+    <path id="패스_27" data-name="패스 27" d="M10.5,0c5.786.185,7.2,2.4,8.049,5.823a46.531,46.531,0,0,1,.27,6.891,15.37,15.37,0,0,1-1.4,6.623C15.961,21.744,14.316,25,10.5,25c-3.439,0-6.08-2.661-7.249-5.662a26.721,26.721,0,0,1-1.583-6.623,26.09,26.09,0,0,1,0-6.891C2.688,2.52,4.7,0,10.5,0Z" transform="translate(44 68)" fill="#f4da2e"/>
+    <ellipse id="타원_36" data-name="타원 36" cx="1" cy="2" rx="1" ry="2" transform="matrix(0.996, -0.087, 0.087, 0.996, 44.829, 78.095)" fill="#f4da2e"/>
+    <ellipse id="타원_37" data-name="타원 37" cx="1" cy="2" rx="1" ry="2" transform="matrix(-0.996, -0.087, 0.087, -0.996, 63.292, 82.079)" fill="#f4da2e"/>
+  </g>
+</svg>
